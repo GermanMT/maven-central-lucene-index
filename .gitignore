@@ -1,0 +1,5 @@
+central-lucene-index
+nexus-maven-repository-index.gz
+lucene-10.2.1
+*.class
+maven_artifacts.txt
