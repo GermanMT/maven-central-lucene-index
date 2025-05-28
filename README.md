@@ -2,9 +2,13 @@
 
 This repository provides tools and utilities for working with the Maven Central repository index using **Apache Lucene**. Due to the current Maven Central guide uses outdated versions, this repository was born out of the need to create a simple guide on how to build the Lucene index for **Maven Central** updated to **27 May 2025**. It allows you to create, deploy, and query the Maven Central index to extract information about available artifacts and their dependencies. This repository has the following features:
 > ⚙️ Create and maintain a searchable index of Maven Central artifacts
+> 
 > ⚙️ Interactive exploration of the index using Luke
+> 
 > ⚙️ Extract artifact information in a standardized format
+> 
 > ⚙️ Support for full-text search across Maven artifacts
+> 
 > ⚙️ Efficient querying of artifact metadata
 
 ## Requirements
